@@ -65,7 +65,7 @@
             font-size: 1.25em;
             line-height: 1.4;
             margin: 2.5rem 0;
-            padding-left: 1.25em;
+            padding-left: 1.25em
         }
         pre {
             @apply border border-current overflow-x-auto leading-normal;
